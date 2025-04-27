@@ -9,6 +9,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-id: aws-ec2
+    github.com/project-slug: backstage-learning/aws-ec2
     backstage.io/kubernetes-namespace: default
 spec:
   type: service
